@@ -13,8 +13,7 @@ Web Application Development
 (Fix and add different variables into a monthly expense calculator)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/jar16h/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
 1. (Fix and add different variables.)
